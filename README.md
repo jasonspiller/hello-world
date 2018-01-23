@@ -1,2 +1,2 @@
 # hello-world
-Hello World
+Hi, I'm a designer, developer, lifetime learner and lover of life.
