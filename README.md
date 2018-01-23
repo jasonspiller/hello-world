@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository.
+Hi, I'm a designer, developer, lifetime learner and lover of life.
